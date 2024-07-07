@@ -6,5 +6,6 @@ public class MainApplication {
         System.out.println("Hello, World2");
         System.out.println("MAMA KAZA");
         System.out.println("третий коммит");
+        System.out.println("четверочка");
     }
 }
